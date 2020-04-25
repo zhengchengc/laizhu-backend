@@ -1,4 +1,4 @@
-package com.gorixl.laizhumainbackend.laizhumainbackend;
+package com.gorixl.laizhumainbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
